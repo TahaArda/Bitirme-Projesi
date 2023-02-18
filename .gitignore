@@ -1,0 +1,24 @@
+#. IDE .-. VSCode
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+#.img
+*.jpg
+*.png
+# videos
+chrome-user-data
+*.sublime-project
+*.mp4
+# packages
+.packages/react-devtools-core/dist
+packages/react-devtools-extensions/chrome/build
+packages/react-devtools-extensions/chrome/*.crx
+packages/react-devtools-extensions/chrome/*.pem
+*.iml
+#.log
+fixtures/dom/public/react-dom.js
+fixtures/dom/public/react.js
+test/the-files-to-test.generated.js
+*.log*
+*.swp
+*.swo
